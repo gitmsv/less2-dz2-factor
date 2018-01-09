@@ -13,12 +13,11 @@ import java.util.Scanner;
  */
 public class FactorRuns {
 
-    int n;
-
     /**
      * @param args the command line arguments n - is specified by the user
      */
     public static void main(String[] args) {
+
         int n;
         try (
                 // TODO code application logic here
